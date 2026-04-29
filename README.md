@@ -13,15 +13,15 @@
 
 ## 📂 Project Structure -
 
-  ##### ├── Finance_Tracker.ipynb              
-  ##### ├── expense_tracker.db            
-  ##### ├── requirements.txt
-  ##### └── README.md
+   ├── Finance_Tracker.ipynb              
+   ├── expense_tracker.db            
+   ├── requirements.txt
+   └── README.md
 
 ## ⚙️ Setup Instructions -
 
 ##### 1. Install dependencies:
-   #####     pip install -r requirements.txt
+  pip install -r requirements.txt
 
 ##### 2. Run the notebook:
-   #####     Open Finance_Tracker.ipynb in VS Code.
+ Open Finance_Tracker.ipynb in VS Code.
