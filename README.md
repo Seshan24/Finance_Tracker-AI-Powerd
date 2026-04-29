@@ -4,12 +4,12 @@
 
 ### 🚀 Key Functions - 
 
-📊 Track income and expenses
-💾 Store data using SQLite database
-🤖 AI-powered assistant for financial queries
-📈 Basic financial insights and summaries
-🧾 Sample dataset included for testing
-🛠️ Easy to set up and run
+##### 📊 Track income and expenses
+##### 💾 Store data using SQLite database
+##### 🤖 AI-powered assistant for financial queries
+##### 📈 Basic financial insights and summaries
+##### 🧾 Sample dataset included for testing
+##### 🛠️ Easy to set up and run
 
 ### 📂 Project Structure -
 
