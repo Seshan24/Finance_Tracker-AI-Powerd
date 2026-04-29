@@ -61,5 +61,5 @@ Once your app is running, test it with all of the following inputs. Your app mus
 Copyright © 2026 Seshan Rodrigo. All rights reserved.
 
 ## 📱 Contact 
-Linkedin - linkedin.com/in/seshan-rodrigo-1279ba2b6
-Git hub- https://github.com/seshan24
+# Linkedin - linkedin.com/in/seshan-rodrigo-1279ba2b6
+# Git hub- https://github.com/seshan24
