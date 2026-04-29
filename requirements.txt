@@ -1,0 +1,7 @@
+ipykernel
+ipython
+langchain-openai
+openai
+python-dotenv
+requests
+gradio
