@@ -13,10 +13,10 @@
 
 ## 📂 Project Structure -
 
-   ├── Finance_Tracker.ipynb              
-   ├── expense_tracker.db            
-   ├── requirements.txt
-   └── README.md
+  ├── Finance_Tracker.ipynb              
+  ├── expense_tracker.db            
+  ├── requirements.txt
+└── README.md
 
 ## ⚙️ Setup Instructions -
 
