@@ -2,7 +2,7 @@
 
   Finance Tracker — AI-Powered Personal Finance Assistant This is a conversational personal finance management tool built with Python, powered by an OpenAI GPT model and a local SQLite database. Users interact with it through a Gradio chat interface entirely in natural language — no forms, no buttons, just conversation.
 
-### 🚀 Key Functions - 
+## 🚀 Key Functions - 
 
 ##### 📊 Track income and expenses
 ##### 💾 Store data using SQLite database
@@ -11,7 +11,7 @@
 ##### 🧾 Sample dataset included for testing
 ##### 🛠️ Easy to set up and run
 
-### 📂 Project Structure -
+## 📂 Project Structure -
 
   ├── Finance_Tracker.ipynb              
   ├── expense_tracker.db            
