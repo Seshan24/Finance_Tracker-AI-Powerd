@@ -25,12 +25,14 @@ Finance_Tracker-AI-Powerd/
 ## ⚙️ Setup Instructions -
 
 ##### 1. Clone the repository
-  git clone https://github.com/Seshan24/Finance_Tracker-AI-Powerd.git
-  cd Finance_Tracker-AI-Powerd
-
+ ```
+ git clone https://github.com/Seshan24/Finance_Tracker-AI-Powerd.git
+ cd Finance_Tracker-AI-Powerd
+```
 ##### 2. Install dependencies:
+```
   pip install -r requirements.txt
-
+```
 ##### 3. Run the notebook:
  Open Finance_Tracker.ipynb in VS Code.
 
