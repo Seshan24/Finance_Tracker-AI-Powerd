@@ -13,7 +13,8 @@
 
 ## 📂 Project Structure -
 
-```Finance_Tracker-AI-Powerd/
+```
+Finance_Tracker-AI-Powerd/
 │
 ├── app.ipynb / main.py
 ├── database.db
