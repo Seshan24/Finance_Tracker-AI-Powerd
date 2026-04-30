@@ -15,10 +15,10 @@
 
 Finance_Tracker-AI-Powerd/
 │
-├── app.ipynb / main.py        # Main application logic
-├── database.db               # SQLite database
-├── requirements.txt          # Dependencies
-├── README.md                 # Project documentation
+├── app.ipynb / main.py
+├── database.db
+├── requirements.txt
+├── README.md                
 
 ## ⚙️ Setup Instructions -
 
