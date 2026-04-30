@@ -13,12 +13,13 @@
 
 ## 📂 Project Structure -
 
-Finance_Tracker-AI-Powerd/
+```Finance_Tracker-AI-Powerd/
 │
 ├── app.ipynb / main.py
 ├── database.db
 ├── requirements.txt
-├── README.md                
+├── README.md
+```             
 
 ## ⚙️ Setup Instructions -
 
