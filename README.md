@@ -11,6 +11,7 @@
  🧾 Sample dataset included for testing
  🛠️ Easy to set up and run
 ~~~
+
 ## 📂 Project Structure -
 ```
 Finance_Tracker-AI-Powerd/
@@ -19,7 +20,8 @@ Finance_Tracker-AI-Powerd/
 ├── database.db
 ├── requirements.txt
 ├── README.md
-```             
+```
+
 ## ⚙️ Setup Instructions -
 
 ##### 1. Clone the repository
@@ -31,15 +33,18 @@ Finance_Tracker-AI-Powerd/
 ```
   pip install -r requirements.txt
 ```
+
 ##### 3. Run the notebook:
  Open Finance_Tracker.ipynb in VS Code.
+ 
 ## 🧠 How It Works
-
+~~~
 User enters a message (e.g., “I spent 500 on food”)
 AI interprets the intent
 System triggers the correct function
 Data is stored in SQLite database
 User gets a smart response
+~~~
 
 ## 📜 License
 © 2026 Seshan Rodrigo. All rights reserved.
