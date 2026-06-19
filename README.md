@@ -46,8 +46,15 @@ Data is stored in SQLite database
 User gets a smart response
 ~~~
 
-## 📜 License
-© 2026 Seshan Rodrigo. All rights reserved.
+## 📄 License
 
-## 📬 Contact
-If you have any questions or feedback, feel free to connect with me on LinkedIn.
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Seshan Rodrigo**
+
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
