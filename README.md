@@ -22,20 +22,26 @@ Finance_Tracker-AI-Powerd/
 ├── README.md
 ```
 
-## ⚙️ Setup Instructions -
 
-##### 1. Clone the repository
- ```
- git clone https://github.com/Seshan24/Finance_Tracker-AI-Powerd.git
- cd Finance_Tracker-AI-Powerd
-```
-##### 2. Install dependencies:
-```
-  pip install -r requirements.txt
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/AI-Powered-ChatBot.git
+cd AI-Powered-ChatBot
 ```
 
-##### 3. Run the notebook:
- Open Finance_Tracker.ipynb in VS Code.
+2. Install dependencies:
+
+```bash
+pip install openai sqlite3
+```
+
+3. Add your API key:
+
+
+
  
 ## 🧠 How It Works
 ~~~
