@@ -2,6 +2,8 @@
 
   Finance Tracker is AI Powered Personal Finance Assistant. This is a heplful personal finance management tool built with Python, powered by an OpenAI GPT model and a local SQLite database. Users interact with it through a Gradio chat interface entirely in natural language. No forms, no buttons, just conversation.
 
+  [![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
+
 ## 🚀 Key Functions - 
 ~~~
  📊 Track income and expenses
