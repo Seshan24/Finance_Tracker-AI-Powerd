@@ -54,10 +54,6 @@ Data is stored in SQLite database
 User gets a smart response
 ~~~
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
