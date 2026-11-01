@@ -41,9 +41,9 @@ pip install openai sqlite3
 ```
 
 3. Add your API key:
-
-
-
+```bash
+APIKEY="XXXXXXXXXXXXXXXXXXXXXX"
+```
  
 ## 🧠 How It Works
 ~~~
